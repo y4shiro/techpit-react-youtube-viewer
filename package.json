@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development",
-    "watch": "npm run build:dev -- --watch"
+    "watch": "npm run build:dev -- --watch",
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
